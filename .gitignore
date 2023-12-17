@@ -145,3 +145,5 @@ Scripts/django-admin.exe
 Scripts/activate.bat
 Scripts/activate
 pyvenv.cfg
+staticfiles/
+build/
